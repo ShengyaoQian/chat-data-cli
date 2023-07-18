@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+venv/
+*.env
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package-specific files
+/.venv
+/.env
+/.vscode
+
